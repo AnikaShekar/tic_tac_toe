@@ -23,9 +23,10 @@ Built with
 - new game button - resets the game without the winner message
 - winner message - the winner name is diaplayed at the top
 
-# Screenshots  
-![App Screenshot](C:\Users\chand\OneDrive\Desktop\tic-tac-toe\tictactoe_game\screenshots\op1.png)
-![App Screenshot](C:\Users\chand\OneDrive\Desktop\tic-tac-toe\tictactoe_game\screenshots\op2.png)
+# Screenshots 
+![App Screenshot 1](./screenshots/op1.png)
+![App Screenshot 2](./screenshots/op2.png)
+
 
 # Project Structure
 ├── index.html 
